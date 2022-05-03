@@ -140,7 +140,7 @@ public class JPaneEj4 extends JFrame {
 		JButton btnNewButton_4 = new JButton("About");
 		btnNewButton_4.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				JOptionPane.showMessageDialog(null, "Autor: Borja Montseny");
+				JOptionPane.showMessageDialog(null, "Creador: Borja Montseny");
 			}
 		});
 		btnNewButton_4.setBounds(0, 220, 85, 21);
